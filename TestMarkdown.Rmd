@@ -10,6 +10,6 @@ library(tidyverse)
 ```
 
 ```{r}
-a <- 5
+b <- 5
 ```
 
